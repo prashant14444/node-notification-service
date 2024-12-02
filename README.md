@@ -82,7 +82,7 @@ npm start
 npm run dev
 ```
 
-The server will start at `http://localhost:3000`.
+The server will start at `http://localhost:<port in .env or 5000 default>`.
 
 ---
 
@@ -188,7 +188,7 @@ The server will start at `http://localhost:3000`.
    ```bash
    docker-compose up --build
    ```
-2. Access the server at `http://localhost:3000`.
+2. Access the server at `http://localhost:5000`.
 
 ---
 
@@ -198,4 +198,4 @@ This project is licensed under the MIT License.
 ---
 
 ## Contact
-For issues or inquiries, contact [your email](mailto:your-email@example.com). 
+For issues or inquiries, contact [pkipg081@gmail.com](mailto:pkipg081@gmail.com). 
